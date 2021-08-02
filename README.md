@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Franck
  <div>
   <a href="https://github.com/ursfranckk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ursfranckk&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ursfranckk&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ursfranckk&layout=compact&langs_count=7&theme=midnight-purple"/> -->
  </div>
   
